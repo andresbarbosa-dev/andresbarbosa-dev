@@ -18,4 +18,4 @@
 
 ## 📫 Contato
 
-- LinkedIn: (coloque o link aqui)
+- LinkedIn: www.linkedin.com/in/andresbarbosadev
